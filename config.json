@@ -1,0 +1,9 @@
+{
+  "target_table": "employee_clean",
+  "columns": {
+    "id": "employee_id",
+    "name_upper": "full_name",
+    "age_group": "category",
+    "salary_in_k": "income_k"
+  }
+}
